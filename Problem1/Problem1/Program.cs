@@ -37,11 +37,11 @@ namespace Problem1
             this.multiples = multiples;
         }
 
-        public bool CheckNumber(int canidate)
+        public bool CheckNumber(int candidate)
         {
             foreach (int multiple in multiples)
             {
-                if (canidate % multiple == 0)
+                if (candidate % multiple == 0)
                     return true;
             }
 
