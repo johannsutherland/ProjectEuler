@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem15", "Problem15\Problem15.csproj", "{64E8AE95-666A-41C3-80CB-DB069EC5F6EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5CBEFE1-0FBB-4D37-95D8-6066666DFD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E8AE95-666A-41C3-80CB-DB069EC5F6EA}.Debug|x86.ActiveCfg = Debug|x86
+		{64E8AE95-666A-41C3-80CB-DB069EC5F6EA}.Debug|x86.Build.0 = Debug|x86
+		{64E8AE95-666A-41C3-80CB-DB069EC5F6EA}.Release|x86.ActiveCfg = Release|x86
+		{64E8AE95-666A-41C3-80CB-DB069EC5F6EA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
