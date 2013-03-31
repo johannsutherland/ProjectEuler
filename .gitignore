@@ -3,5 +3,5 @@
 *.dll
 *.exe
 *.suo
-/obj/
-/bin/
+obj/
+bin/
