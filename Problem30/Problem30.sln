@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem30", "Problem30\Problem30.csproj", "{073F3D28-2231-4589-8044-091F6365DF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorCheckerUnitTest", "FactorCheckerUnitTest\FactorCheckerUnitTest.csproj", "{57BBF477-B0C2-4381-B811-645A3C369FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073F3D28-2231-4589-8044-091F6365DF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073F3D28-2231-4589-8044-091F6365DF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073F3D28-2231-4589-8044-091F6365DF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073F3D28-2231-4589-8044-091F6365DF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BBF477-B0C2-4381-B811-645A3C369FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BBF477-B0C2-4381-B811-645A3C369FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BBF477-B0C2-4381-B811-645A3C369FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BBF477-B0C2-4381-B811-645A3C369FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
