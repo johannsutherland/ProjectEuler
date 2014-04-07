@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem33", "Problem33\Problem33.csproj", "{57400C4A-AD1C-41E9-AB49-A48B9AA25DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionTest", "FractionTest\FractionTest.csproj", "{7A41F5DF-FE82-4F6F-9B81-ACB309E30978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57400C4A-AD1C-41E9-AB49-A48B9AA25DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57400C4A-AD1C-41E9-AB49-A48B9AA25DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57400C4A-AD1C-41E9-AB49-A48B9AA25DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57400C4A-AD1C-41E9-AB49-A48B9AA25DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A41F5DF-FE82-4F6F-9B81-ACB309E30978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A41F5DF-FE82-4F6F-9B81-ACB309E30978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A41F5DF-FE82-4F6F-9B81-ACB309E30978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A41F5DF-FE82-4F6F-9B81-ACB309E30978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
