@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem34", "Problem34\Problem34.csproj", "{297B0966-B77C-4B27-BCA3-A0C6A4B1AF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialUnitTest", "FactorialUnitTest\FactorialUnitTest.csproj", "{D52DDDFA-367B-4556-AAC8-F2491907111F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297B0966-B77C-4B27-BCA3-A0C6A4B1AF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297B0966-B77C-4B27-BCA3-A0C6A4B1AF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297B0966-B77C-4B27-BCA3-A0C6A4B1AF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297B0966-B77C-4B27-BCA3-A0C6A4B1AF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52DDDFA-367B-4556-AAC8-F2491907111F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52DDDFA-367B-4556-AAC8-F2491907111F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52DDDFA-367B-4556-AAC8-F2491907111F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52DDDFA-367B-4556-AAC8-F2491907111F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
