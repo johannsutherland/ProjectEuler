@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "UnitTestProject1\Tests.csproj", "{1C96087C-9A29-47E4-AAEE-87900D5998A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectEuler", "Library\ProjectEuler.csproj", "{5E83A528-C322-4DAF-863A-167C5E242901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C96087C-9A29-47E4-AAEE-87900D5998A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C96087C-9A29-47E4-AAEE-87900D5998A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C96087C-9A29-47E4-AAEE-87900D5998A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C96087C-9A29-47E4-AAEE-87900D5998A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E83A528-C322-4DAF-863A-167C5E242901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E83A528-C322-4DAF-863A-167C5E242901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E83A528-C322-4DAF-863A-167C5E242901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E83A528-C322-4DAF-863A-167C5E242901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46DE7BAC-C8B8-4AD4-B417-E3C381B8CB9B}
+	EndGlobalSection
+EndGlobal
