@@ -45,7 +45,7 @@ namespace ProjectEuler
         {
             List<long> primeFactors = new List<long>();
 
-            for (long i = 2; i < product; i++)
+            for (long i = product - 1; i > 1; i--)
             {
                 if (this.IsPrime(i))
                     primeFactors.Add(i);
